@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+fed_env/
+
+# Local editor and temporary files
+.vscode/
+.idea/
+tempCodeRunnerFile.python
+
+# Data and generated outputs
+dataset/
+evaluation/
+plots/
+
+# Model checkpoints and generated ML artifacts
+*.pt
+*.pth
+*.ckpt
+*.npz
+
+# OS files
+.DS_Store
+Thumbs.db

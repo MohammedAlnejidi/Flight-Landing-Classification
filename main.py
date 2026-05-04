@@ -1,0 +1,6 @@
+print("Landing Anomaly Detection - 4-Class Classification")
+print("1. Build preprocessing: python utils\\preprocessing_v2.py")
+print("2. Visualize data: python utils\\visualize_data.py")
+print("3. Train classifier: python train_classifier.py")
+print("4. Evaluate classifier: python evaluate_classifier.py")
+print("5. Tune classifier with Optuna: python optuna_tune.py")
